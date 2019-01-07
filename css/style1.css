@@ -5,3 +5,10 @@ header{
 	text-align: center;
 	background-color: black;
 }
+nav ul li{
+
+	display: inline;
+text-decoration: none;
+list-style: none;
+align-content: center;
+}
