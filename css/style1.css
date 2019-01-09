@@ -16,6 +16,7 @@ align-content: center;
 	float: left;
 	width: 25%;
 	height: 1000px;
-	background-image: url(../pictures/25657334-poster-barbershop.jpg);
+	background-image: url(../pictures/25657334-poster-barbershop.jpg) ;
+	background-size: contain;
 
 }
