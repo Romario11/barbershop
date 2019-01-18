@@ -2,8 +2,12 @@ body{
 	background-color: gray;
 }
 header{
+
 	text-align: center;
 	background-color: black;
+}
+#container{
+	display: flex;
 }
 nav ul li{
 
