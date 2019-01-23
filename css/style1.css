@@ -24,3 +24,9 @@ align-content: center;
 	background-size: contain;
 
 }
+div{
+background-color: gray;
+}
+#div-conatainer{
+	background-color: red;
+}
