@@ -39,3 +39,13 @@ export class ChatService {
     return answer || this.messageMap['default'];
   }
 }
+
+function removeChar(str){
+var arr = str.split('');
+ arr.shift();
+ arr.pop();
+ return arr.join("");
+
+};
+ 
+ console.log( removeChar("Romario"));
