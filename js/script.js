@@ -17,3 +17,12 @@ var arr = str.split('');
 };
  
  console.log( removeChar("Romario"));
+ function removeChar2(str){
+var arr = str.split('');
+ arr.shift();
+ arr.pop();
+ return arr.join("");
+
+};
+ 
+ console.log( removeChar("Romario"));
